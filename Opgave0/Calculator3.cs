@@ -1,4 +1,4 @@
-public class Caculator3
+public class Calculator3
 {
     public static double Add(double a, double b)
     {

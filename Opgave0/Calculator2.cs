@@ -1,6 +1,6 @@
-public class Caculator2
+public class Calculator2
 {
-    Caculator2()
+    public Calculator2()
     {
 
     }

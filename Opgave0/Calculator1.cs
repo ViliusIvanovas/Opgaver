@@ -1,9 +1,9 @@
-public class Caculator1
+public class Calculator1
 {
     private double _a;
     private double _b;
 
-    public Caculator1()
+    public Calculator1()
     {
 
     }
